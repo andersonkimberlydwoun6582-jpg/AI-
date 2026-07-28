@@ -1,0 +1,41 @@
+PROJECT IDENTITY
+Project name:
+Repository:
+Domain:
+Site type:
+Primary goal:
+Primary audience:
+Target countries:
+Target languages:
+Monetization:
+
+POSITIONING
+Main topic or product:
+Core user problem:
+Unique value:
+Primary conversion or success action:
+Excluded topics:
+
+CONTENT AND DATA
+Core categories:
+Required page types:
+Existing content:
+Keyword data:
+Official or authoritative sources:
+Freshness requirements:
+
+TECHNICAL
+Framework or CMS:
+Deployment target:
+Canonical domain:
+Indexing strategy:
+Analytics:
+Ads:
+Multilingual requirements:
+Structured-data requirements:
+
+EXECUTION
+Current stage:
+Authorized boundary:
+Known risks:
+Open questions:
